@@ -7,9 +7,11 @@ The project is structured as follows:
 1. Data Preparation:
 
 Data is preprocessed to suit the training of recommendation models. This includes data cleaning, handling missing values, normalization, etc.
+
 2. PyTorch Approach:
 
 Utilizes PyTorch to create and train a medicament recommendation model. This model is built using neural networks and can capture complex relationships between sickness and recommended drugs.
+
 3. Scikit-learn Approach:
 
 Uses scikit-learn to implement another medicament recommendation model based on classical supervised learning algorithms such as classification, or clustering adapted for drug recommendation and cosine Smilarity and the cross table (interaction matrix).
